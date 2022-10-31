@@ -1,1 +1,3 @@
 # Pycurriculum
+
+Made by Trojux
