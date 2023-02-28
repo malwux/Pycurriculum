@@ -1,3 +1,3 @@
 # Pycurriculum
 
-Made by Trojux
+My Pycurriculum :D
